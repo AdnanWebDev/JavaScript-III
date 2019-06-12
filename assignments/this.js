@@ -46,5 +46,5 @@ const newtown = new WelcomeTown('Murfreesboro')
 towntest.speak()
 
 // Principle 4
-
+//Override speak function
 towntest.speak.apply(newtown)
